@@ -1,0 +1,11 @@
+F:\VS2017 Project\IdentityServer4\ThirdPartyDemo\bin\Debug\netcoreapp2.1\ThirdPartyDemo.deps.json
+F:\VS2017 Project\IdentityServer4\ThirdPartyDemo\bin\Debug\netcoreapp2.1\ThirdPartyDemo.runtimeconfig.json
+F:\VS2017 Project\IdentityServer4\ThirdPartyDemo\bin\Debug\netcoreapp2.1\ThirdPartyDemo.runtimeconfig.dev.json
+F:\VS2017 Project\IdentityServer4\ThirdPartyDemo\bin\Debug\netcoreapp2.1\ThirdPartyDemo.dll
+F:\VS2017 Project\IdentityServer4\ThirdPartyDemo\obj\Debug\netcoreapp2.1\ThirdPartyDemo.csproj.CoreCompileInputs.cache
+F:\VS2017 Project\IdentityServer4\ThirdPartyDemo\obj\Debug\netcoreapp2.1\ThirdPartyDemo.AssemblyInfoInputs.cache
+F:\VS2017 Project\IdentityServer4\ThirdPartyDemo\obj\Debug\netcoreapp2.1\ThirdPartyDemo.AssemblyInfo.cs
+F:\VS2017 Project\IdentityServer4\ThirdPartyDemo\bin\Debug\netcoreapp2.1\ThirdPartyDemo.pdb
+F:\VS2017 Project\IdentityServer4\ThirdPartyDemo\obj\Debug\netcoreapp2.1\ThirdPartyDemo.csprojAssemblyReference.cache
+F:\VS2017 Project\IdentityServer4\ThirdPartyDemo\obj\Debug\netcoreapp2.1\ThirdPartyDemo.dll
+F:\VS2017 Project\IdentityServer4\ThirdPartyDemo\obj\Debug\netcoreapp2.1\ThirdPartyDemo.pdb
